@@ -6,7 +6,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: 25589,
-    allowedHosts: ['lynxhost.xiiaa.lol'],
-    allowedHosts: ['node.zemii.xyz'],
+    allowedHosts: ['xiiaa.lol']
   }
 })
